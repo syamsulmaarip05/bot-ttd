@@ -1,0 +1,17 @@
+2025/09/20-12:06:30.941 d38 Reusing MANIFEST C:\Users\syams\projek\bot-ttd\tokens\ttd-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/20-12:06:30.944 d38 Recovering log #510
+2025/09/20-12:06:31.014 d38 Reusing old log C:\Users\syams\projek\bot-ttd\tokens\ttd-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000510.log 
+2025/09/20-12:06:32.013 1d7c Level-0 table #517: started
+2025/09/20-12:06:32.046 1d7c Level-0 table #517: 666620 bytes OK
+2025/09/20-12:06:32.049 1d7c Delete type=0 #510
+2025/09/20-12:06:32.050 1d7c Manual compaction at level-0 from '\x00y\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00z\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/20-12:06:34.404 d38 Compacting 1@1 + 3@2 files
+2025/09/20-12:06:34.518 d38 Generated table #518@1: 44291 keys, 2199280 bytes
+2025/09/20-12:06:34.653 d38 Generated table #519@1: 48784 keys, 2212109 bytes
+2025/09/20-12:06:34.674 d38 Generated table #520@1: 10480 keys, 342838 bytes
+2025/09/20-12:06:34.675 d38 Compacted 1@1 + 3@2 files => 4754227 bytes
+2025/09/20-12:06:34.676 d38 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/09/20-12:06:34.676 d38 Delete type=2 #512
+2025/09/20-12:06:34.676 d38 Delete type=2 #513
+2025/09/20-12:06:34.676 d38 Delete type=2 #514
+2025/09/20-12:06:34.676 d38 Delete type=2 #517
